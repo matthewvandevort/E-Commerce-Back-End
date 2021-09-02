@@ -46,12 +46,18 @@ npm install
 npm run seed
 ```
 # Demo
+GET, POST, PUT and DELETE routes for the categories.
+
 https://user-images.githubusercontent.com/82176811/131888228-c0f4aa1e-458c-4133-ba50-c7701c45e14d.mp4
 
+GET, POST, PUT and DELETE routes for the products.
 
 https://user-images.githubusercontent.com/82176811/131889701-2361cccb-eea6-4202-852f-1e681b57fead.mp4
 
+GET, POST, PUT and DELETE routes for the tags.
+
 https://user-images.githubusercontent.com/82176811/131891383-100dc6cc-6dba-4303-952b-fdb6a2f18cab.mp4
+
 # Resources Used
 
 * [MDN Docs](https://developer.mozilla.org/en-US/)
